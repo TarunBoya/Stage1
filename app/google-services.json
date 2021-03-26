@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275658368943",
+    "project_id": "stage1-9e304",
+    "storage_bucket": "stage1-9e304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275658368943:android:3e37026e9a3875cf2ef15a",
+        "android_client_info": {
+          "package_name": "com.tarun.stage1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275658368943-t2oddc0lc271qi8vigs0bsuk14rq6b5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3scNEXJdxW1KKq8o9FM4oB9rM9kwXWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275658368943-t2oddc0lc271qi8vigs0bsuk14rq6b5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
